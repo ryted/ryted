@@ -21,7 +21,7 @@
 
 ## Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hostinger-bot&theme=monokai)
-<p align="center"><a href="https://github.com/hostinger-bot"><img src="https://github-readme-stats.vercel.app/api?username=hostinger-bot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ryted"><img src="https://github-readme-stats.vercel.app/api?username=hostinger-bot&show_icons=true&theme=radical"></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hostinger-bot&theme=dark" alt="hostinger-bot" /></p>
 <p align="center"><a href="https://github.com/hostinger-bot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostinger-bot&theme=radical&layout=compact"></a></p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hostinger-bot&theme=vue">
