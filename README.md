@@ -28,7 +28,7 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src=" https://img.shields.io/badge/OS-linux-red?&logo=linux" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </hal>
